@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0167/v1
 canonical_location: https://kanripo.org/bkk/KR6j0167/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛母大孔雀明王經
   identifiers:
@@ -42,15 +42,15 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0167_000.yaml, hash: 'sha256:175175c6c73b05ad97a9fcc6cd17796d8724d02a0eb09ef13e6e3487639e7733'}
-  - {seq: 1, filename: KR6j0167_001.yaml, hash: 'sha256:61ac08adcea10bf1deed25adbf5aca2136235b382e202ae0ada855fab3dfdc4d'}
-  - {seq: 2, filename: KR6j0167_002.yaml, hash: 'sha256:66c367b3fa1d641d37920db98d783282198fd511c64605313b8d3d4f8660a3b1'}
-  - {seq: 3, filename: KR6j0167_003.yaml, hash: 'sha256:7fcde7a4c541c33abc93fd08cd0e4013206baca8dd89a294554da612e97b0166'}
+  - {seq: 0, filename: KR6j0167_000.yaml, hash: 'sha256:1e5fbd4f9e2b7352db4a19e012e41f5123b4c6c0937def49c09d62df35e732cb'}
+  - {seq: 1, filename: KR6j0167_001.yaml, hash: 'sha256:53e4e823dcfd36a87372de4a5ce626361a720f1cbb3e576ae4a491f6e5335eb5'}
+  - {seq: 2, filename: KR6j0167_002.yaml, hash: 'sha256:c40b52661c134b47d753fd5e672e72d3448e2ca54d1076100899672ceedaf263'}
+  - {seq: 3, filename: KR6j0167_003.yaml, hash: 'sha256:8efd1188712d6a5f2e59592e70e23893078878126c4973e9b80029c1c06b158e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0167_000.markers.yaml, hash: 'sha256:bc44f5aced850fd99cdd55e9de31840cafd8c05ecde521e73f3ac30b2f330140'}
-  - {seq: 1, role: markers, filename: assets/KR6j0167_001.markers.yaml, hash: 'sha256:1aeb0b595e6b1eb7fdcbc329ba3167af3992eda8305c76519e95bea356a14072'}
-  - {seq: 2, role: markers, filename: assets/KR6j0167_002.markers.yaml, hash: 'sha256:a8b7a30954b581df4498bfe32354a7c728b40ebf02fbee86bd8e7dc301b7e71e'}
-  - {seq: 3, role: markers, filename: assets/KR6j0167_003.markers.yaml, hash: 'sha256:3be8db47d291b2d9a23428504ee1d2fe177c5c0a671a8267aad60572c5615ea2'}
+  - {seq: 0, role: markers, filename: assets/KR6j0167_000.markers.yaml, hash: 'sha256:db8cc33502e02436f96f88fc50e264f64975ada0b4b231b0c216f125a0b8a133'}
+  - {seq: 1, role: markers, filename: assets/KR6j0167_001.markers.yaml, hash: 'sha256:b5d763522c97252f33131814720635caa19e93a3f600cdb1d8ea76c4f8b8366e'}
+  - {seq: 2, role: markers, filename: assets/KR6j0167_002.markers.yaml, hash: 'sha256:4132bed13c668df39e03ed9f839b128c4deee4479d9ad09bbe2649c2b5927370'}
+  - {seq: 3, role: markers, filename: assets/KR6j0167_003.markers.yaml, hash: 'sha256:6e7b1325db1ce74e3ad2b334dd07a360ff7a1975b9baf50686563860fa5575b4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -112,4 +112,7 @@ table_of_contents:
   label: 佛母大孔雀明王經卷下
   type: juan
   level: 1
-hash: sha256:c6730065350f34d0a8ef2f2171899c98cb8dd2c3e2a802ead18e50dcaa8a8695
+hash: sha256:33c05a0e15c95d8cc336e9865d40c7c3ba452d0bfd28d40c523243fdd5bc8418
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -19,12 +19,12 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0167_000-T.yaml, hash: 'sha256:175175c6c73b05ad97a9fcc6cd17796d8724d02a0eb09ef13e6e3487639e7733'}
+  - {seq: 0, filename: KR6j0167_000-T.yaml, hash: 'sha256:0fa10a184e0f4d8db59716b5444b5cdb6f2eedeb209f0f118c9197b733906a0a'}
   - {seq: 1, filename: KR6j0167_001-T.yaml, hash: 'sha256:61ac08adcea10bf1deed25adbf5aca2136235b382e202ae0ada855fab3dfdc4d'}
   - {seq: 2, filename: KR6j0167_002-T.yaml, hash: 'sha256:66c367b3fa1d641d37920db98d783282198fd511c64605313b8d3d4f8660a3b1'}
   - {seq: 3, filename: KR6j0167_003-T.yaml, hash: 'sha256:7fcde7a4c541c33abc93fd08cd0e4013206baca8dd89a294554da612e97b0166'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0167_000-T.markers.yaml, hash: 'sha256:19c58123fa1b83d216e36b7f29b7d854c60309c8c09346675ffe54063beb0727'}
+  - {seq: 0, role: markers, filename: assets/KR6j0167_000-T.markers.yaml, hash: 'sha256:09c5e68f09b238fa3e8342de0f002208e85b34adc767925694bf893c65075227'}
   - {seq: 1, role: markers, filename: assets/KR6j0167_001-T.markers.yaml, hash: 'sha256:eaa41f02bbfba35cb28bbe192fb31b05b2535e92a71afe236bdc6a9882c62fb8'}
   - {seq: 2, role: markers, filename: assets/KR6j0167_002-T.markers.yaml, hash: 'sha256:5c1ecdfcc393f65a8ff7f87ab844fa72b3a82c5e5beeac01f733dec97f2c6274'}
   - {seq: 3, role: markers, filename: assets/KR6j0167_003-T.markers.yaml, hash: 'sha256:908bdf604ed34179bb3753b989b27c06e4e3a481a569bbd33f7656af119abf4d'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0167_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 佛母大金曜孔雀明王經序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0167_T_000-mulu-2
     span:
-    - front
+    - body
     - 676
     - 676
   label: 讀誦佛母大孔雀明王經前啟請法
@@ -89,4 +89,4 @@ table_of_contents:
   label: 佛母大孔雀明王經卷下
   type: juan
   level: 1
-hash: sha256:0ff345f91d92cf8269bf5cd53aac7c432644860e31c1742b1b5de91d66e24dc8
+hash: sha256:df64f9f3f40db7eb7ec3edee19a229d23810160fab4f5d6294ba77d3b0d772fd
